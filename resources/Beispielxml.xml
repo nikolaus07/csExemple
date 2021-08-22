@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BeispielWerte Fingerprint="245627846835351">
+  <Werte Name="Banane" xx="0" wert="33"   Default="20"    Min="1" Max="41"     Show="True"  />
+  <Werte Name="Apfel"  xx ="0" wert="100" Default="10"    Min="-1" Max="100"  Show="True"  />
+  <Werte Name="Pflaume" xx="0" wert="550" Default="30"    Min="0" Max="10"    Show="True"  />
+  <Werte Name="Kirsche" xx="0" wert="667" Default="10"    Min="0" Max="100"   Show="True"  />
+</BeispielWerte>
