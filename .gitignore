@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/obj/Release/net48
+/obj
+/bin/Debug/net48
+/.vs
